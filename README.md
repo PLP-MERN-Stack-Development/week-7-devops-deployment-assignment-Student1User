@@ -107,9 +107,9 @@ npm run seed
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://your-app.vercel.app](https://your-app.vercel.app)
+- **Frontend**: [https://your-app.vercel.app]([https://your-app.vercel.app](https://v0-mern-stack-deployment-alpha.vercel.app/)
 - **Backend API**: [https://your-api.onrender.com](https://your-api.onrender.com)
-- **API Documentation**: [https://your-api.onrender.com/api](https://your-api.onrender.com/api)
+
 
 ## 📚 Documentation
 
@@ -129,12 +129,7 @@ npm run seed
 - `GET /api/health` - Health check
 - `GET /api/metrics/:id` - Get metrics
 
-### Sample Login Credentials
-\`\`\`
-Admin: admin@example.com / Admin123!
-Developer: john@example.com / Developer123!
-User: jane@example.com / User123!
-\`\`\`
+
 
 ## 🔧 Development
 
@@ -264,9 +259,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
+
 - **Documentation**: Check README files in each directory
-- **Email**: your-email@example.com
+- **Email**: magachi.emmanuel@students.jkuat.ac.ke
 
 ## 🎯 Roadmap
 
@@ -281,6 +276,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Status**: ✅ Production Ready  
 **Version**: 1.0.0  
-**Last Updated**: January 2024
+**Last Updated**: July 2025
 
 Built with ❤️ for professional MERN stack deployments
